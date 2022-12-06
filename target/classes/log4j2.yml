@@ -1,0 +1,26 @@
+Configuration:
+  status: info
+
+  Properties:
+    Property:
+      name: log-path
+      value: "logs"
+
+  Appenders:
+    Console:
+      name: LogToConsole
+      PatternLayout:
+        Pattern: "[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n"
+  
+
+  Loggers:
+    Logger:
+    - name: com.grsollinger
+      level: info
+      additivity: false
+      AppenderRef:
+        - ref: LogToConsole
+    Root:
+      level: info
+      AppenderRef:
+        ref: LogToConsole

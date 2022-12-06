@@ -1,0 +1,12 @@
+spring:
+  main:
+    lazy-initialization: true
+    banner-mode: off
+  sql:
+    init:
+      platform: hsqldb
+  datasource:
+    driver-class-name=org.hsqldb.jdbc.JDBCDriver
+    url=jdbc:hsqldb:mem:test;DB_CLOSE_DELAY=-1
+    username:sa
+    jpa.hibernate.ddl-auto=create

@@ -1,0 +1,12 @@
+com\grsollinger\order\web\OrderController.class
+com\grsollinger\customer\service\CustomerService.class
+com\grsollinger\core\dao\AbstractGenericDAO.class
+com\grsollinger\order\Order.class
+com\grsollinger\product\Product.class
+com\grsollinger\RestApplication.class
+com\grsollinger\core\dao\GenericDAO.class
+com\grsollinger\core\AbstractEntity.class
+com\grsollinger\customer\Customer.class
+com\grsollinger\customer\dao\CustomerDAO.class
+com\grsollinger\customer\web\CustomerController.class
+com\grsollinger\order\OrderItem.class

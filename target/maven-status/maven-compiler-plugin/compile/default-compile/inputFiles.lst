@@ -1,0 +1,12 @@
+C:\Development\workspace_rox\restapi\src\main\java\com\grsollinger\order\Order.java
+C:\Development\workspace_rox\restapi\src\main\java\com\grsollinger\core\AbstractEntity.java
+C:\Development\workspace_rox\restapi\src\main\java\com\grsollinger\core\dao\GenericDAO.java
+C:\Development\workspace_rox\restapi\src\main\java\com\grsollinger\product\Product.java
+C:\Development\workspace_rox\restapi\src\main\java\com\grsollinger\core\dao\AbstractGenericDAO.java
+C:\Development\workspace_rox\restapi\src\main\java\com\grsollinger\customer\Customer.java
+C:\Development\workspace_rox\restapi\src\main\java\com\grsollinger\RestApplication.java
+C:\Development\workspace_rox\restapi\src\main\java\com\grsollinger\customer\service\CustomerService.java
+C:\Development\workspace_rox\restapi\src\main\java\com\grsollinger\order\OrderItem.java
+C:\Development\workspace_rox\restapi\src\main\java\com\grsollinger\customer\dao\CustomerDAO.java
+C:\Development\workspace_rox\restapi\src\main\java\com\grsollinger\order\web\OrderController.java
+C:\Development\workspace_rox\restapi\src\main\java\com\grsollinger\customer\web\CustomerController.java
